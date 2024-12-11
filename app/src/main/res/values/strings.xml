@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="volver_jugar">Volver a Jugar</string>
+    <string name="abortar">Abortar</string>
+    <string name="intentos">Intentos: 0</string>
+    <string name="pista">Pista:</string>
+    <string name="intentar">Intentar</string>
+    <string name="ingresa_intento">Ingresa tu intento</string>
+    <string name="iniciar">Iniciar Partida</string>
+    <string name="max">Rango Máximo</string>
+    <string name="min">Rango Mínimo</string>
+    <string name="adivina">Adivina el Número</string>
+</resources>
